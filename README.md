@@ -2,24 +2,24 @@
 # Hi, I'm Mani Kartik Prasad 👋
 
 🎓 B.Tech CSE Student  
-💻 Aspiring Software / Data Engineer  
-📍 India  
+💻 Aspiring Software Developer 
+📍 Delhi, India  
 
 ---
 
 ## 👨‍💻 About Me
-
-- Currently pursuing **Computer Science & Engineering**
-- Strong interest in **Data Engineering, Cloud Computing, and Algorithms**
-- Actively building academic and real-world projects
-- Focused on writing **clean, scalable, and efficient code**
+- I have hands-on experience in Full stack, Cloud fundamentals, and core computer science.
+- Comfortable working with Python, SQL, Java, and modern development workflows.
+- Learning DSA, Operating Systems, DBMS, and Computer Networks.
+- Actively building projects for cloud-based applications, and ML case studies.
+- Passionate about problem-solving, system design thinking, and exploring other edges of technology.
 
 ---
 
 ## 🛠️ Technical Skills
 
 **Languages:**  
-- C, C++, Java, Python, SQL  
+- HTML, CSS, JavaScript, Reactjs, Java, Python
 
 **Core CS:**  
 - Data Structures & Algorithms  
@@ -39,14 +39,13 @@
 
 - Advanced Data Structures & Algorithms  
 - Cloud Computing & Distributed Systems  
-- ETL Pipelines and Data Warehousing Concepts  
+  
 
 ---
 
 ## 🚀 Projects
 
-- **Cloud-Based File Storage System (AWS S3)**  
-- **ETL Pipeline for Business Data Analysis**  
+- **Cloud-Based File Storage System (AWS S3)** 
 - **Machine Learning Case Study (Tabular Dataset)**  
 
 > More projects available in my repositories.
@@ -63,8 +62,8 @@
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN  
-- Email: your.email@example.com
+- LinkedIn: https://www.linkedin.com/in/mani-kartik-prasad-653192329/ 
+- Email: manikartik@gmail.com
 
 ---
 
