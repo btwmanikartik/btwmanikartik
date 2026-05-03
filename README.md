@@ -63,7 +63,7 @@
 ## 📫 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/mani-kartik-prasad-653192329/ 
-- Email: manikartik@gmail.com
+- Email: manikartikprasad@gmail.com
 
 ---
 
